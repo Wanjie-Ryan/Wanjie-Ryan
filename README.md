@@ -11,7 +11,9 @@
 - 
 - 📫 <h2> How to reach me: </h2>
 - 
--  Twitter: < a href = 'https://twitter.com/home' ><i class="fa-brands fa-twitter"></i></a> , Instagram: <a href = 'https://www.instagram.com' ><i class="fa-brands fa-instagram"></i></a> .
+-  Twitter: < a href = 'https://twitter.com/home' ><i style="font-size:24px" class="fa">&#xf099;</i>
+</a>.
+-  Instagram: <a href = 'https://www.instagram.com' ><i class="fa-brands fa-instagram"></i></a> .
 
 <!---
 Wanjie-Ryan/Wanjie-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
