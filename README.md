@@ -8,10 +8,11 @@
 - 🌱 I’m currently enhancing my knowledge in the fields stated above.(React, Node and Express JS and Python)
 - 
 - 💞️ I’m looking to collaborate on various projects with people from all walks of life and around the globe, i am quite social.
+- 🌱 Starting Blockchain Development...<b>SOLIDITY</b>
 - 
 - 📫 <h2> How to reach me: </h2>
 - 
--  Twitter: < a href = 'https://twitter.com/home' ><i style="font-size:24px" class="fa">&#xf099;</i>
+-  Twitter: < a href = 'https://twitter.com/home' >Twitter</i>
 </a>.
 -  Instagram: <a href = 'https://www.instagram.com' ><i class="fa-brands fa-instagram"></i></a> .
 
