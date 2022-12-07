@@ -11,9 +11,10 @@
 - 🌱 Starting Blockchain Development...<b>SOLIDITY</b>
 - 
 - 📫 <h2> How to reach me: </h2>
-- 
--  Twitter: < a href = 'https://twitter.com/home' >Twitter</i>
-</a>.
+
+   email: ryanwanjiedistortion@gmail.com
+-  < a href = 'https://twitter.com/home' >Twitter </a>.
+
 - <a href = 'https://www.instagram.com' >Instagram</a> .
 
 <!---
