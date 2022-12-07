@@ -14,7 +14,7 @@
 - 
 -  Twitter: < a href = 'https://twitter.com/home' >Twitter</i>
 </a>.
--  Instagram: <a href = 'https://www.instagram.com' ><i class="fa-brands fa-instagram"></i></a> .
+- <a href = 'https://www.instagram.com' >Instagram</a> .
 
 <!---
 Wanjie-Ryan/Wanjie-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
