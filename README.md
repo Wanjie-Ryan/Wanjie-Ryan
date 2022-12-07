@@ -13,9 +13,8 @@
 - 📫 <h2> How to reach me: </h2>
 
  -  email: ryanwanjiedistortion@gmail.com
--  < a href = 'https://www.twitter.com' >Twitter </a>.
-
-- <a href = 'https://www.instagram.com' >Instagram</a> .
+  
+-   <a href = 'https://www.instagram.com' >Instagram</a> .
 
 <!---
 Wanjie-Ryan/Wanjie-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
