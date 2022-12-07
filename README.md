@@ -13,7 +13,7 @@
 - 📫 <h2> How to reach me: </h2>
 
  -  email: ryanwanjiedistortion@gmail.com
--  < a href = 'https://www.twitter.com/home' >Twitter </a>.
+-  < a href = 'https://www.twitter.com' >Twitter </a>.
 
 - <a href = 'https://www.instagram.com' >Instagram</a> .
 
