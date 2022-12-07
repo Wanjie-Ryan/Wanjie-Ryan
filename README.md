@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wanjie-Ryan
+- 👋 <h2>Hi<h2>, <h3>I am Wanjie Ryan <h3>
 - 👀 I’m a Full-Stack developer, with knowledge in React, Node and Express JS and Python.
 - I also Love football, not only being a fan but also playing, bet you also cannot beat me in Chess.
 - Everyday is a Learning day in my journey. Always staying Positive and wearing a smile.
