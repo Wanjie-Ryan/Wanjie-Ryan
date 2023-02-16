@@ -12,7 +12,7 @@
 - 
 - 📫 <h2> How to reach me: </h2>
 
- -  email: ryanwanjiedistortion@gmail.com
+ -  email: ryanwanjie1@gmail.com
   
 -   <a href = 'https://www.instagram.com' >Instagram</a> .
 
