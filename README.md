@@ -16,6 +16,8 @@
   
 -   <a href = 'https://www.instagram.com' >Instagram</a> .
 
+    <a href ='https://wanjieryan.netlify.app/'>Personal Website</a>
+
 <!---
 Wanjie-Ryan/Wanjie-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
