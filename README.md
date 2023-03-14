@@ -1,7 +1,7 @@
 -  <h3> Hi 👋, I am Wanjie Ryan  &#11088; </h3>
 -  <h2> What do i do? 👀 </h2> 
   
--  I’m a <b>Full-Stack developer </b>, with knowledge in <b>React</b>, <b>Node</b> and <b>Express JS</b> and <b>Python</b>.
+-  I’m a <b>Full-Stack developer </b>, with knowledge in <b>React (https://img.icons8.com/color/100/000000/css</b>, <b>Node</b> and <b>Express JS</b> and <b>Python</b>.
 - I also Love Football &#9917;, not only being a fan but also playing, bet you also cannot beat me in Chess &#9823;.
 - Everyday is a Learning day in my journey. Always staying Positive and wearing a smile.
 - <h2> Growth: </h2>
