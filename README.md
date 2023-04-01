@@ -6,10 +6,10 @@
 - Everyday is a Learning day in my journey. Always staying Positive and wearing a smile.
 - <h2> Growth: </h2>
 - 🌱 I’m currently enhancing my knowledge in the fields stated above.(React, Node and Express JS and Python)
-- 
+
 - 💞️ I’m looking to collaborate on various projects with people from all walks of life and around the globe, i am quite social.
 - 🌱 Starting Blockchain Development...<b>SOLIDITY</b>
-- 
+
 - 📫 <h2> How to reach me: </h2>
 
  -  email: ryanwanjie1@gmail.com
