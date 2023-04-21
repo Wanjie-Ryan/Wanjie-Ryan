@@ -1,7 +1,7 @@
 # Hi there, I'm Wanjie Ryan. [Website] 👋 
 
 [![Website](https://img.shields.io/website?down_message=unstable&label=wanjieryan.netlify.app&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwanjieryan.netlify.app)](https://wanjieryan.netlify.app)
-![Twitter Follow](https://img.shields.io/twitter/follow/RWanjie)(https://twitter.com/RWanjie)
+![Twitter Follow](https://img.shields.io/twitter/follow/RWanjie)
 <br>[![wakatime](https://wakatime.com/badge/user/92e60c46-f1a3-4fda-9d42-fd37976dd646.svg)](https://wakatime.com/@92e60c46-f1a3-4fda-9d42-fd37976dd646)
 
 
